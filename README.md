@@ -2,6 +2,8 @@
 
 ### 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器 [[实现原理]](https://www.youtube.com/watch?v=p-KhFJAC4WQ&t=70s)
 
+https://raw.githubusercontent.com/cmliu/cmliu/main/%E4%BC%98%E9%80%89%E8%AE%A2%E9%98%85%E7%94%9F%E6%88%90%E5%99%A8-%E8%AE%B2%E8%A7%A3%E7%AF%87
+
 Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networks](https://alice.ws/aff.php?aff=15)提供的云服务器维持[CM订阅转换服务](https://sub.fxxk.dedyn.io/)！**
 
 # Pages 部署方法 [视频教程](https://www.youtube.com/watch?v=p-KhFJAC4WQ&t=509s)
